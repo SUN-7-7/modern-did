@@ -1,0 +1,4 @@
+interface:
+  display_name: "modernDID"
+  short_description: "Modern staggered DID workflows"
+  default_prompt: "Use $modern-did to choose and run a modern difference-in-differences workflow."
